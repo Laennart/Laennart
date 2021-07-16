@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+You found my profile! I'm Lennart, 20 years old and from Frankfurt in Germany. I love learning new skills to develop even better applications!
+
+- 🔭 I’m currently working on a cool app with flutter!
 <!--
 **Laennart/Laennart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
