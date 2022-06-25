@@ -1,12 +1,9 @@
 <h1 align="center">Hey there 👋, I'm Lennart</h1>
-<h3 align="center">A passionate developer from Germany!</h3>
 <!-- Visitors
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laennart&label=Visitors&color=0e75b6&style=flat" alt="laennart" /></p>
 -->
 
-- 🔭 I’m currently working on **so much stuff**...
-
-- 👯 I’m looking to collaborate on **more open source projects**!
+- 🔭 I’m currently working @sirupapp
 
 - 📝 I'm a computer science student at [TU Darmstadt](https://www.tu-darmstadt.de/).
 
