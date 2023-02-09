@@ -3,7 +3,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=laennart&label=Visitors&color=0e75b6&style=flat" alt="laennart" /></p>
 -->
 
-- 🔭 I’m currently working [@sirupapp](https://github.com/sirupapp).
+- 🔭 I’m currently working [@stikkyapp](https://github.com/stikkyapp).
 
 - 📝 I'm a computer science student at [TU Darmstadt](https://www.tu-darmstadt.de/).
 
